@@ -5,3 +5,6 @@ These are the animations I was asked to create for AmericasNLP 2024. Their purpo
 <p align="center">
   <img src="assets_readme/anim_5_example.gif" alt="Animación NLP" width="600">
 </p>
+
+## View the live demo of the project here:  
+[https://danyboy910.github.io/MotionGraphics_AmericasNLP2024/](https://danyboy910.github.io/MotionGraphics_AmericasNLP2024/)
